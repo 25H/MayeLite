@@ -77,6 +77,18 @@ _最新版本界面可能与截图有出入。_
 * <kbd>588046177</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
 
 
+### 微信群
+微信群二维码
+
+<img src="http://blog.arae.cc/images/vx-maye.png" alt="Maye 微信群" width="200" height="200">
+
+
+如群二维码过期，请扫描以下二维码(X1982882666)添加群主后说明加入Maye群
+
+<img src="http://blog.arae.cc/images/vx-25H.png" alt="" width="200" height="200">
+
+
+
 ### 赞助
 
 **[点击进入赞助页 >>](http://blog.arae.cc/z/about.html#打赏-赞助)**
