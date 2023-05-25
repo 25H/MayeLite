@@ -3,7 +3,7 @@
 **[点击阅读原文](https://t.arae.cc/p/25804.html)**
 
 
-**Maye Lite**是一款更轻更简洁的快速启动工具。它的功能非常单一化，只专注于文件的快速启动。没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，是用户提升Windows操作体验的好帮手。
+**Maye Lite**是一个专注于文件快速启动的简洁、轻量级工具。它的功能主要集中在提供高效的文件启动体验，而不涉及其他复杂的功能。Maye Lite的设计理念是简单易用，不会产生垃圾文件，以绿色无污染的方式提升Windows操作体验。
 
 
 ### 功能
@@ -30,6 +30,7 @@
 ### 相关截图
 _最新版本界面可能与截图有出入。_
 
+![Maye Lite 快速启动 工具](https://raw.githubusercontent.com/25H/MayeLite/main/img/script.gif)
 ![Maye Lite 快速启动 工具](https://i.loli.net/2021/11/29/RPboWuHZis1CX4d.png)
 ![Maye Lite 快速启动 工具](https://i.loli.net/2021/11/29/dHtpn6ykwOXgG9E.png)
 ![Maye Lite 快速启动 工具](https://i.loli.net/2021/11/29/Nq9Dhk4vzOPMnml.png)
@@ -67,7 +68,7 @@ _最新版本界面可能与截图有出入。_
 
 ### 更新日志
 
-<https://blog.arae.cc/soft/MayeLite/ChangeLog.txt>
+<https://t.arae.cc/soft/MayeLite/ChangeLog.txt>
 
 
 ### QQ群
@@ -82,13 +83,13 @@ _最新版本界面可能与截图有出入。_
 
 请扫描以下二维码(X1982882666)添加群主后说明加入Maye群
 
-<img src="http://blog.arae.cc/images/vx-25H.png" alt="" width="200" height="200">
+<img src="https://t.arae.cc/images/vx-25H.png" alt="" width="200" height="200">
 
 
 
 ### 赞助
 
-**[点击进入赞助页 >>](http://blog.arae.cc/z/about.html#打赏-赞助)**
+**[点击进入赞助页 >>](https://t.arae.cc/z/donate.html)**
 
 
 ### 备注
@@ -96,7 +97,7 @@ _最新版本界面可能与截图有出入。_
 * 名称：Maye Lite 快速启动工具
 * 大小：15 MB+
 * 语言：简中
-* 运行环境：Win10+
+* 运行环境：Win7+
 * 授权方式：免费软件
 * 软件类别：桌面工具
 * 编写语言：c++/js/css/html
