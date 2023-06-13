@@ -34,9 +34,9 @@
     "menu_run": "运行",
     "menu_viewHotKey": "查看项目快捷键",
     "menu_updataEnv": "更新环境变量",
-    "menu_set2d": "设置文档",
+    "menu_update": "检查更新",
+    "menu_set2d": "文档",
     "menu_set2": "设置",
-    "menu_about": "关于",
     "menu_exit2": "退出",
 
     "menu_newC": "新建分类",
@@ -171,11 +171,13 @@
     "bi_appwiz": "程序和功能",
     "bi_optionalfeatures": "Windows 功能",
 
+    "set_1": "关于",
 
     "set_2": "常规",
     "set_21": "常规",
     "set_2_lang": "语言",
     "set_2_langAuto": "自动",
+    "set_2_atr": "开机启动",
     "set_2_toMost": "置于顶层",
     "set_22": "托盘",
     "set_2_notifyIcoType": "托盘图标类型",
@@ -184,6 +186,7 @@
     "set_2_notifyIcoType2": "白色",
     "set_2_notifyIcoType3": "黑色",
     "set_23": "进阶",
+    "set_2_ddex": "*开启拖放增强 [h]支持拖入悬停运行,拖入Appx,浏览器书签,浏览器链接等。[br]如出现文件无法拖入请关闭此选项[/h]",
     "set_2_imeToEng": "开启自动将输入法切换为英文模式 [h](在唤醒时自动切换)[/h]",
     "set_2_autoEnv": "*开启自动更新环境变量 [h](由 Maye Lite 自动管理子进程的环境变量)[/h]",
     "set_2_amm": "*开启主动内存管理",
@@ -193,7 +196,11 @@
 
     "set_3": "动作",
     "set_31": "动作",
-    "set_3_wmr": "鼠标中键运行项目",
+    "set_3_dbr": "双击运行项目",
+    "set_3_wmr": "鼠标中键运行项目 [h](运行后不隐藏主窗口)[/h]",
+    "set_3_wns": "唤醒后不保留滚动状态",
+    "set_3_wca": "鼠标滚轮激活分类",
+    "set_3_wcra": "项目列表鼠标滚轮激活分类 [h](滚动到顶部或底部时自动切换)[/h]",
     "set_3_tsd": "悬停切换延时[毫秒] [h](0 关闭; 推荐:50+)[/h]",
     "set_32": "唤醒",
     "set_3_ghk": "全局快捷键 [h](通过鼠标右键执行复制或删除)[/h]",
@@ -223,15 +230,27 @@
     "set_3_gmkk3": "中键 (默认)",
     "set_3_gmkk4": "侧键前",
     "set_3_gmkk5": "侧键后",
+    "set_3_edge": "*边缘吸附",
+    "set_3_edge1": "开启动效",
+    "set_3_edge2": "显示延迟[毫秒] [h](0 关闭; 推荐:100+)[/h]",
     "set_3_nihs": "开启托盘悬停唤醒",
     "set_3_sfm": "显示时跟随鼠标",
     "set_33": "隐藏",
+    "set_3_mlh": "鼠标移出主窗口后",
     "set_3_kfh": "失去焦点后",
     "set_3_dcbh": "双击空白处",
     "set_3_rah": "运行项目后 [h](鼠标中键忽略)[/h]",
 
     "set_4": "界面",
     "set_41": "窗口与布局",
-    "set_4_theme": "主题"
+    "set_4_theme": "主题",
+    "set_4_cdp": "分类显示位置",
+    "set_4_cdp0": "不显示",
+    "set_4_cdp1": "左侧",
+    "set_4_cdp2": "右侧",
+    "set_4_cdp3": "顶部",
+    "set_4_cdp4": "底部",
+
+    "set_6": "帮助"
 
 }

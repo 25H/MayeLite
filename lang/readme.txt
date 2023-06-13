@@ -1,6 +1,4 @@
-需要什么语言自己按格式加入，如果可以请提交一份到：https://github.com/25H/MayeLite
-
-zh-CN.json文件作为参考
+需要什么语言自己按格式加入(参照zh-CN.json)，如果可以请提交一份到：https://github.com/25H/MayeLite
 
 "err_" 开头的代表错误提示信息
 "btn_" 开头的代表按钮
